@@ -1,3 +1,3 @@
-使用LifeX工具
+使用LifeX、deepmedic、CycleGAN 工具
 
-以及 deepmedic
+ 
